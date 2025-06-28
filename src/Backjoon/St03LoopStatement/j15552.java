@@ -1,4 +1,4 @@
-package Backjoon.반복문;
+package Backjoon.St03LoopStatement;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

@@ -1,4 +1,4 @@
-package Backjoon.문자열; // 패키지 선언 (백준 문제 풀이용 패키지)
+package Backjoon.St05String; // 패키지 선언 (백준 문제 풀이용 패키지)
 
 /*
  * 문제 번호: 5622 (다이얼)

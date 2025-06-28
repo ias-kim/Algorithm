@@ -1,4 +1,4 @@
-package Backjoon.조건문;
+package Backjoon.St02ConditionalStatement;
 
 import java.util.Scanner;
 
